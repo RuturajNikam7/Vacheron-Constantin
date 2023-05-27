@@ -325,6 +325,9 @@ a:hover {
     margin-top: 23%;
 
 }
+.cont1>iframe{
+    border-radius: 20px;
+}
 
 #txt2 {
     position: absolute;
