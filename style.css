@@ -11,7 +11,8 @@
 
 
 body {
-    height: 625vh;
+    /*height: 625vh;*/
+    height:auto;
     behavior: smooth !important;
     width: 100%;
 }
