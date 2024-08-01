@@ -30,7 +30,7 @@ a {
 } */
 
 /* ul
-{
+{<!-- made by 09pirate -->
   display:flex;  
   list-style:none;
 
@@ -124,7 +124,7 @@ a {
     background-size: 100%;
     /* filter: brightness(60%); */
 
-
+    /*  made by 09pirate  */
     /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(https://www.vacheron-constantin.com/dam/vac/homepage/Patrimony-Pink-Desktop.jpg.transform.vacbannerhd.jpg) */
 }
 
@@ -162,7 +162,7 @@ a:hover {
     margin-top: 38%;
     position: absolute;
     margin-left: 7%;
-    /* padding: 5px; */
+    /* padding: 5px; *//*  made by 09pirate  */
     border: 1px solid black !important;
     font-size: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -253,7 +253,7 @@ a:hover {
     /* overflow-clip-margin: content-box;
     overflow: clip; */
     /* box-shadow:  15px 20px 20px #000000; */
-
+/*  made by 09pirate  */
     /* background-color: #f4f4f4; */
 
     position: relative;
@@ -329,7 +329,7 @@ a:hover {
 #w1{
    
    
-   
+    made by 09pirate 
     height: 300px;
     margin-left: 1%;
     margin-top: 9%;
@@ -484,7 +484,7 @@ a:hover {
     font-size: 20px;
 }
 
-/* .fa-twitter{
+/* .fa-twitter{   made by 09pirate  
     margin-top: 43%;
     margin-left: 30%;
     position: absolute;
